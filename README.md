@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **osamawaseem692@gmail.com**
 
-- 📫 Portfolio **https://portfolio-muhammad-usama.web.app/**
+- 📫 Portfolio **https://devbyusama.com/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
